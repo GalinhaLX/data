@@ -35,5 +35,13 @@
 		"29€",
 		"29€",
 		"23.00€"
+	],
+	"product": [
+		{
+			"image": "assets/images/products/Kvas_Original_x12_mini.png",
+			"title": "Original - 12 bottles of 330ml",
+			"price": "29€"
+		},
+		{}
 	]
 }
