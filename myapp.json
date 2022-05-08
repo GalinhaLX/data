@@ -1,0 +1,38 @@
+{
+	"hero:image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@a5e33faa68f5c68fb27acc9274e15893c47de2e8/images/Acrylic%20LED%20Lighted%20bottle%20cooler%20boat%20LED%202.png",
+	"hero:title": "The original",
+	"hero:subtitle": "Finally, something really good to drink. A real healthy drink that invites itself to your table every day.",
+	"hero:goto": "#image",
+	"social:facebook": "https://www.facebook.com/vakcinkvas",
+	"social:instagram": "https://www.instagram.com/VakcinDrinks/",
+	"social:pinterest": "https://www.pinterest.pt/VakcinDrinks",
+	"slider:image": "./assets/images/1200x600_HR.jpg",
+	"features:title": "Why you'll love our products",
+	"feature": [
+		{
+			"feature:title": "100% natural",
+			"features:description": "No preservatives, no artificial colorants and no artificial flavours. Only goodness!\n                        "
+		}
+	],
+	"image": [
+		"assets/images/products/Kvas_Original_x12_mini.png",
+		"assets/images/products/Kvas_Lemon_x12_mini.png",
+		"assets/images/products/Kvas_Orange_Ginger_x12_mini.png",
+		"assets/images/products/Kvas_Raspberry_x12_mini.png",
+		"assets/images/KvasBaginnature_1024x1024@2x.jpg"
+	],
+	"title": [
+		"Original - 12 bottles of 330ml",
+		"Lemon - 12 bottles of 330ml",
+		"Orange Ginger - 12 bottles of 330ml",
+		"Raspberry - 12 bottles of 330ml",
+		"Tote Bag"
+	],
+	"price": [
+		"29€",
+		"29€",
+		"29€",
+		"29€",
+		"23.00€"
+	]
+}
