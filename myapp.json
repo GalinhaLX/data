@@ -60,5 +60,14 @@
 			"title": "sdqf",
 			"price": "sdf"
 		}
+	],
+	"faq": [
+		{
+			"Question": "What is Kvas?",
+			"Answer": "Our original Kvas is a sparkling, sour beverage with a crisp rye bread flavour and golden-brown colour."
+		},
+		{
+			"Question": "ma question"
+		}
 	]
 }
