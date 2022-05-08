@@ -38,27 +38,9 @@
 	],
 	"product": [
 		{
-			"image": "assets/images/products/Kvas_Original_x12_mini.png",
-			"title": "Original - 12 bottles of 330ml",
-			"price": "29€"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@9aa3c41e17102f1d60a5ab8003e634878cd6ab36/images/a260522a-f0dc-477d-b4a9-f27ee32e984d",
-			"title": "Cadre photo (45cm x 45cm)",
-			"price": "120€"
-		},
-		{},
-		{
-			"title": "dsqffqd",
-			"price": "sdqf"
-		},
-		{
-			"title": "sdqf",
-			"price": "sdf"
-		},
-		{
-			"title": "sdqf",
-			"price": "sdf"
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@be36683d3a4d5e37b2ee7c530487277d49a84f09/images/1878f0a3-e78a-4cda-a79d-674a2f3df058",
+			"title": "Cadre photo 40cm x 40cm",
+			"price": "20€"
 		}
 	],
 	"faq": [
