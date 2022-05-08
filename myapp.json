@@ -40,7 +40,8 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@be36683d3a4d5e37b2ee7c530487277d49a84f09/images/1878f0a3-e78a-4cda-a79d-674a2f3df058",
 			"title": "Cadre photo 40cm x 40cm",
-			"price": "20€"
+			"price": "20€",
+			"product:reference": "45165152"
 		}
 	],
 	"faq": [
