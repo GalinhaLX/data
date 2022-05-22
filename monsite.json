@@ -43,6 +43,7 @@
 				{
 					"navbar-item": [
 						{
+							"url": "#contact",
 							"brand": "Contact"
 						}
 					]
