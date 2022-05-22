@@ -17,7 +17,7 @@
 					"navbar-item": [
 						{
 							"url": "#menu2",
-							"brand": "menu2"
+							"brand": "MENU3"
 						}
 					]
 				}
@@ -57,7 +57,6 @@
 					"label": 0
 				}
 			],
-			"title": "\n                                                                \n                                                            ",
 			"label": "Explore"
 		}
 	]
