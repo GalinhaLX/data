@@ -42,10 +42,10 @@
 			"nav_menu": [
 				{
 					"navbar-item": [
+						{},
 						{
 							"menu": "Home"
-						},
-						{}
+						}
 					]
 				}
 			],
