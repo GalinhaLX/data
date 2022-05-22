@@ -11,6 +11,7 @@
 			"ref_alt": "Bottles",
 			"favorite": true,
 			"visible": true,
+			"brand_image": "https://bulma.io/images/bulma-logo.png",
 			"nav_menu": [
 				{
 					"navbar-item": [
