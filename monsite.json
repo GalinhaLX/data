@@ -42,11 +42,10 @@
 			"nav_menu": [
 				{
 					"navbar-item": [
-						{},
 						{
-							"url": "#contact",
-							"brand": "Contact"
-						}
+							"menu": "Home"
+						},
+						{}
 					]
 				}
 			],
