@@ -42,7 +42,9 @@
 			"nav_menu": [
 				{
 					"navbar-item": [
-						{}
+						{
+							"brand": "Contact"
+						}
 					]
 				}
 			],
