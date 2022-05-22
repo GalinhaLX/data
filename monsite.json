@@ -43,7 +43,8 @@
 				{
 					"navbar-item": [
 						{
-							"menu": "Home"
+							"menu": "Home",
+							"link": "#home"
 						},
 						{}
 					]
