@@ -44,7 +44,8 @@
 					"navbar-item": [
 						{
 							"menu": "Home",
-							"link": "#home"
+							"link": "#home",
+							"link_": "#home"
 						},
 						{}
 					]
