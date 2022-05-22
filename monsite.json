@@ -39,7 +39,7 @@
 			"ref_alt": "Bottles",
 			"ref_class": "",
 			"favorite": true,
-			"visible": false,
+			"visible": true,
 			"nav_menu": [
 				{
 					"navbar-item": [
