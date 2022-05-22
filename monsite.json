@@ -64,6 +64,24 @@
 				}
 			],
 			"label": "Explore"
+		},
+		{
+			"visible": true,
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{}
+					]
+				}
+			],
+			"menu": [
+				{
+					"navbar-item": [
+						{}
+					],
+					"label": 0
+				}
+			]
 		}
 	]
 }
