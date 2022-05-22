@@ -45,7 +45,8 @@
 						{
 							"menu": "Home",
 							"link": "#home",
-							"link_": "#home"
+							"link_": "#home",
+							"menu_link": "#zert"
 						},
 						{}
 					]
