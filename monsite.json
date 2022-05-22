@@ -15,6 +15,7 @@
 				{
 					"navbar-item": [
 						{
+							"url": "#menu2",
 							"brand": "menu2"
 						}
 					]
