@@ -14,7 +14,9 @@
 			"nav_menu": [
 				{
 					"navbar-item": [
-						{}
+						{
+							"brand": "menu2"
+						}
 					]
 				}
 			],
