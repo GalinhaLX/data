@@ -1,0 +1,60 @@
+{
+	"slide": [
+		{
+			"tpl_ref": "1",
+			"tpl_url": "/tplsnew/hero.html",
+			"ref_type": "free",
+			"ref_title": "Hero section",
+			"ref_is": "",
+			"ref_height": "50px",
+			"ref_image": "https://images.unsplash.com/photo-1648737119359-510d4f551382?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4144",
+			"ref_alt": "Bottles",
+			"favorite": true,
+			"visible": true,
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{}
+					]
+				}
+			],
+			"menu": [
+				{
+					"navbar-item": [
+						{}
+					],
+					"label": 0
+				}
+			]
+		},
+		{
+			"visible": true,
+			"brand_image": "https://bulma.io/images/bulma-logo.png",
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{
+							"url": "https://www.vakcin.com",
+							"brand": "Home"
+						}
+					]
+				}
+			],
+			"url": "https://www.vakcin.com",
+			"brand": "Brand",
+			"menu": [
+				{
+					"navbar-item": [
+						{
+							"url": "https://www.vakcin.com",
+							"brand": "Home"
+						}
+					],
+					"label": 0
+				}
+			],
+			"title": "\n                                                                \n                                                            ",
+			"label": "Explore"
+		}
+	]
+}
