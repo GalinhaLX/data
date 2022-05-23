@@ -142,6 +142,27 @@
 			"ref_height": "150px",
 			"ref_image": "https://source.unsplash.com/300x300/?random&pic=15",
 			"ref_alt": "Bottles",
+			"visible": true,
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{
+							"menu": "Home"
+						}
+					]
+				}
+			]
+		},
+		{
+			"tpl_ref": "3",
+			"tpl_url": "/tplsnew/hero.html",
+			"ref_type": "free",
+			"ref_title": "Convince",
+			"ref_is": "",
+			"ref_height": "100px",
+			"ref_image": "https://source.unsplash.com/300x300/?random&pic=14",
+			"ref_alt": "Bottles",
+			"ref_class": "",
 			"visible": false,
 			"nav_menu": [
 				{
