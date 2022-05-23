@@ -47,19 +47,7 @@
 			"visible": false,
 			"nav_menu": [
 				{
-					"navbar-item": [
-						{
-							"menu": "Home",
-							"link": "#home",
-							"link_": "#home",
-							"menu_link": "#zert",
-							"url": "#home"
-						},
-						{
-							"url": "vakcin.com",
-							"menu": "super"
-						}
-					]
+					"navbar-item": []
 				}
 			],
 			"menu": [
