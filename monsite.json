@@ -11,6 +11,9 @@
 							"target": "home",
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			],
@@ -44,6 +47,9 @@
 						{
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			]
@@ -56,6 +62,9 @@
 						{
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			]
@@ -96,6 +105,10 @@
 							"target": "home",
 							"menu": "Contacts"
 						}
+					],
+					"menu": [
+						"Home",
+						"Home"
 					]
 				}
 			],
@@ -131,6 +144,9 @@
 							"target": "home",
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			],
@@ -164,6 +180,9 @@
 						{
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			],
@@ -187,6 +206,9 @@
 						{
 							"menu": "Home"
 						}
+					],
+					"menu": [
+						"Home"
 					]
 				}
 			]
