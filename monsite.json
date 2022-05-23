@@ -7,7 +7,8 @@
 					"navbar-item": [
 						{
 							"url": "https://www.vakcin.com",
-							"brand": "Home"
+							"brand": "Home",
+							"target": "home"
 						}
 					]
 				}
@@ -45,7 +46,15 @@
 			"ref_alt": "Bottles",
 			"favorite": true,
 			"visible": false,
-			"nav_menu": [],
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{
+							"target": "home"
+						}
+					]
+				}
+			],
 			"menu": [
 				{
 					"navbar-item": [
@@ -74,7 +83,9 @@
 			"nav_menu": [
 				{
 					"navbar-item": [
-						{}
+						{
+							"target": "home"
+						}
 					]
 				}
 			],
