@@ -51,8 +51,11 @@
 				{
 					"navbar-item": [
 						{
-							"target": "home",
 							"menu": "Home"
+						},
+						{
+							"target": "home",
+							"menu": "Contacts"
 						}
 					]
 				}
