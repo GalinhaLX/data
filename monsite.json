@@ -26,7 +26,13 @@
 			"url": "https://www.vakcin.com",
 			"brand": "Brand",
 			"title": "\n                                                                \n                                                            ",
-			"label": "Explore"
+			"label": "Explore",
+			"alink": {
+				"aimage": "https://www.qries.com/images/banner_logo.png"
+			},
+			"monlien": {
+				"brand_image": "https://bulma.io/images/bulma-logo.png"
+			}
 		},
 		{
 			"tpl_ref": "1",
@@ -64,7 +70,9 @@
 					"label": 0
 				}
 			],
-			"brand_image2": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@5853df32eac1f17581b2246392b6232fc595d292/images/fa49dd92-d0e1-494d-8b0a-5582cc4afffa"
+			"brand_image2": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@5853df32eac1f17581b2246392b6232fc595d292/images/fa49dd92-d0e1-494d-8b0a-5582cc4afffa",
+			"alink": {},
+			"monlien": {}
 		},
 		{
 			"tpl_ref": "2",
@@ -95,7 +103,9 @@
 			],
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@fa7389e3c4c230eededac5ef4339c5fc1e9d0f9c/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg",
 			"title": "azdzada",
-			"subtitle": "azezaeaze"
+			"subtitle": "azezaeaze",
+			"alink": {},
+			"monlien": {}
 		}
 	]
 }
