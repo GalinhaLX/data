@@ -108,7 +108,9 @@
 					],
 					"menu": [
 						"Home",
-						"Contacts"
+						"Contacts",
+						"Home",
+						"Home"
 					]
 				}
 			],
