@@ -136,6 +136,9 @@
 							"menu": "Home"
 						},
 						{
+							"menu": "Home"
+						},
+						{
 							"target": "home",
 							"menu": "Contacts"
 						}
