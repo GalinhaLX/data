@@ -3,5 +3,20 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"menu": "Home",
 	"title": "\n                                                                \n                                                            ",
-	"label": "Explore"
+	"label": "Explore",
+	"slide": [
+		{
+			"visible": false,
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"nav_menu": [
+				{
+					"menu": [
+						"Home"
+					]
+				}
+			],
+			"title": "\n                                                                \n                                                            ",
+			"label": "Explore"
+		}
+	]
 }
