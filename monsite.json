@@ -8,7 +8,8 @@
 						{
 							"url": "https://www.vakcin.com",
 							"brand": "Home",
-							"target": "home"
+							"target": "home",
+							"menu": "Home"
 						}
 					]
 				}
@@ -50,7 +51,8 @@
 				{
 					"navbar-item": [
 						{
-							"target": "home"
+							"target": "home",
+							"menu": "Home"
 						}
 					]
 				}
@@ -84,7 +86,8 @@
 				{
 					"navbar-item": [
 						{
-							"target": "home"
+							"target": "home",
+							"menu": "Home"
 						}
 					]
 				}
