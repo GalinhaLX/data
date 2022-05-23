@@ -136,7 +136,13 @@
 							"menu": "Home"
 						},
 						{
-							"menu": "Site"
+							"menu": "site"
+						},
+						{
+							"menu": "Home"
+						},
+						{
+							"menu": "Home"
 						},
 						{
 							"target": "home",
