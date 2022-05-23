@@ -215,5 +215,10 @@
 				}
 			]
 		}
-	]
+	],
+	"visible": false,
+	"logo": "https://bulma.io/images/bulma-logo.png",
+	"menu": "Home",
+	"title": "\n                                                                \n                                                            ",
+	"label": "Explore"
 }
