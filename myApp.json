@@ -1,4 +1,9 @@
 {
 	"display1": "Vakcin's beverage",
-	"logo": "https://vakcin.com/assets/images/vakcin_icon.png"
+	"logo": "https://vakcin.com/assets/images/vakcin_icon.png",
+	"link1": "#home",
+	"link2": "#home2",
+	"inside": "https://vakcin.com/assets/images/vakcin_icon.png",
+	"link3": "#home2",
+	"inside2": "https://vakcin.com/assets/images/vakcin_icon.png"
 }
