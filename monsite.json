@@ -74,6 +74,18 @@
 			"logo_link": "zeze"
 		},
 		{
+			"visible": false,
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{
+							"menu": "Home"
+						}
+					]
+				}
+			]
+		},
+		{
 			"tpl_ref": "2",
 			"tpl_url": "/tplsnew/hero.html",
 			"ref_type": "free",
