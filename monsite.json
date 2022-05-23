@@ -132,6 +132,26 @@
 			"subtitle": "azezaeaze",
 			"alink": {},
 			"monlien": {}
+		},
+		{
+			"tpl_ref": "2",
+			"tpl_url": "/tplsnew/hero.html",
+			"ref_type": "free",
+			"ref_title": "Attract",
+			"ref_is": "",
+			"ref_height": "150px",
+			"ref_image": "https://source.unsplash.com/300x300/?random&pic=15",
+			"ref_alt": "Bottles",
+			"visible": false,
+			"nav_menu": [
+				{
+					"navbar-item": [
+						{
+							"menu": "Home"
+						}
+					]
+				}
+			]
 		}
 	]
 }
