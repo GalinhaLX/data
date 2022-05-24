@@ -21,11 +21,11 @@
 	"min_count": 1,
 	"max_count": 3,
 	"item": [
-		{
-			"chien": "Home"
-		},
-		{
-			"chien": "Home"
-		}
+		"Home",
+		"Home",
+		"Home",
+		"Home",
+		"Home",
+		"Home"
 	]
 }
