@@ -3,10 +3,20 @@
 	"min_count": 1,
 	"max_count": 3,
 	"item": [
-		"Home",
-		"Home",
-		"Home",
-		"Home",
-		"Home"
+		{
+			"menu": "Home"
+		},
+		{
+			"menu": "Home"
+		},
+		{
+			"menu": "Home"
+		},
+		{
+			"menu": "Home"
+		},
+		{
+			"menu": "Home"
+		}
 	]
 }
