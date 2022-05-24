@@ -1,19 +1,7 @@
 {
 	"min_count": 1,
-	"max_count": 3,
+	"max_count": 4,
 	"item": [
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "zerrr"
-		},
-		{
-			"menu": "sdsd"
-		},
-		{
-			"menu": "Home"
-		},
 		{
 			"menu": "Home"
 		}
