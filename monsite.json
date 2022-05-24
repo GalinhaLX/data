@@ -7,6 +7,9 @@
 		},
 		{
 			"menu": "Faq's"
+		},
+		{
+			"menu": "Home"
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png"
