@@ -9,7 +9,10 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"menu": [
 		{
-			"item": "Contact"
+			"item": "Home"
+		},
+		{
+			"item": "Home"
 		},
 		{
 			"item": "Home"
