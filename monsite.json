@@ -15,5 +15,6 @@
 			"menu": "Contact"
 		}
 	],
-	"logo": ""
+	"logo": "",
+	"isMode": true
 }
