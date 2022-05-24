@@ -12,9 +12,9 @@
 			"menu": "FAQ"
 		},
 		{
-			"menu": "Contact"
+			"menu": "Home"
 		}
 	],
 	"logo": "",
-	"isMode": true
+	"isMode": false
 }
