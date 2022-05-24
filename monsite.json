@@ -13,7 +13,7 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": false,
+	"isMode": true,
 	"label": "Explore",
 	"hue": 166
 }
