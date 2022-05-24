@@ -8,10 +8,6 @@
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"menu": [
-		{
-			"menu1": "Home1",
-			"link1": "#home",
-			"menu": "Contact"
-		}
+		"Contact"
 	]
 }
