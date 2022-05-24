@@ -3,15 +3,15 @@
 	"max_count": 4,
 	"item": [
 		{
+			"menu": "Home"
+		},
+		{
 			"menu": "Products"
 		},
 		{
 			"menu": "FAQ"
-		},
-		{
-			"menu": "Home"
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": false
+	"isMode": true
 }
