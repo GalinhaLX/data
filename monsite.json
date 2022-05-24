@@ -13,5 +13,6 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": true
+	"isMode": false,
+	"label": "Explore"
 }
