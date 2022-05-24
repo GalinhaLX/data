@@ -8,7 +8,8 @@
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"menu": [
-		"Contact"
+		"Contact",
+		"Home"
 	],
 	"min_count": 1,
 	"max_count": 5
