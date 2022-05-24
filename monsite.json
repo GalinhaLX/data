@@ -1,31 +1,8 @@
 {
-	"nav_menu": [
-		{
-			"menu": [
-				"Home"
-			]
-		}
-	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"menu": [
-		{
-			"item": "Home"
-		},
-		{
-			"item": "Home"
-		},
-		{
-			"item": "Home"
-		}
-	],
 	"min_count": 1,
-	"max_count": 3,
+	"max_count": 4,
 	"item": [
-		"Home",
-		"Home",
-		"Home",
-		"Home",
-		"Home",
 		"Home"
 	]
 }
