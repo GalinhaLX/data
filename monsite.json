@@ -1,8 +1,12 @@
 {
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"min_count": 1,
-	"max_count": 4,
+	"max_count": 3,
 	"item": [
+		"Home",
+		"Home",
+		"Home",
+		"Home",
 		"Home"
 	]
 }
