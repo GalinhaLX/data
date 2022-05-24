@@ -3,9 +3,6 @@
 	"max_count": 4,
 	"item": [
 		{
-			"menu": "zd"
-		},
-		{
 			"menu": "Products"
 		},
 		{
@@ -16,5 +13,5 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": true
+	"isMode": false
 }
