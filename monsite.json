@@ -1,17 +1,7 @@
 {
 	"min_count": 1,
 	"max_count": 4,
-	"item": [
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Products"
-		},
-		{
-			"menu": "FAQ"
-		}
-	],
+	"item": [],
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"isMode": false,
 	"label": "Explore",
