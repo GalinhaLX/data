@@ -1,25 +1,7 @@
 {
 	"min_count": 1,
-	"max_count": 3,
+	"max_count": 4,
 	"item": [
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
 		{
 			"menu": "Home"
 		}
