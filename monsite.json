@@ -4,9 +4,6 @@
 	"item": [
 		{
 			"menu": "marina"
-		},
-		{
-			"menu": "Home"
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png"
