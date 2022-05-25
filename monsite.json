@@ -7,6 +7,9 @@
 		},
 		{
 			"menu": "Team"
+		},
+		{
+			"menu": "Products"
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
