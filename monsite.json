@@ -10,7 +10,7 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": true,
+	"isMode": false,
 	"label": "Explore",
 	"hue": 155,
 	"title": "L'original",
