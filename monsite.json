@@ -1,27 +1,14 @@
 {
 	"min_count": 1,
-	"max_count": 4,
+	"max_count": 7,
 	"item": [
-		{
-			"menu": "aze"
-		},
 		{
 			"menu": "Home"
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"isMode": false,
-	"label": "Explore",
-	"hue": 155,
-	"title": "L'original",
-	"subtitle": "Une merveilleuse boisson",
-	"github": "                                    ",
-	"twitter": "                                    ",
-	"instagram": "https://instagram.com/",
-	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
-	"wikipedia": [
-		"https://en.wikipedia.org/wiki/Grumpy_Cat",
-		null
-	],
-	"social": "https://picassa"
+	"hue": 20,
+	"title": "Take care of your performance every day.",
+	"subtitle": "Build a well-presented brand that everyone will love. Take care to develop resources continually and integrity them with previous projects."
 }
