@@ -7,7 +7,7 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": true,
+	"isMode": false,
 	"hue": 20,
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and inspiration.",
@@ -31,5 +31,6 @@
 			"product_card_subtitle": "Yes!",
 			"product_action": "Try-it"
 		}
-	]
+	],
+	"profile": "https://www.instagram.com/username/"
 }
