@@ -31,5 +31,20 @@
 			"product_action": "Explore"
 		}
 	],
-	"profile": "https://www.instagram.com/username/"
+	"profile": "https://www.instagram.com/username/",
+	"product_subtitle": "Commencez à vendre vos produits dès à présent",
+	"team_title": "Our team",
+	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
+	"member": [
+		{
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		}
+	]
 }
