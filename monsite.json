@@ -22,7 +22,7 @@
 		}
 	],
 	"logo": "https://bulma.io/images/bulma-logo.png",
-	"isMode": false,
+	"isMode": true,
 	"hue": 321,
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and dd fsdsf .",
@@ -42,7 +42,7 @@
 			"product_action": "Explore"
 		},
 		{
-			"product_card_title": "No programming",
+			"product_card_title": "No promming",
 			"product_card_subtitle": "A child can use it!",
 			"product_action": "Explore"
 		},
