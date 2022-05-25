@@ -1,5 +1,7 @@
 {
-	"display1": "PoinT",
+	"display1": {
+		"ri-instagram-line": "PoinT"
+	},
 	"link1": "Point",
 	"link2": "#home2",
 	"inside": "https://mavo.io/logo.svg",
