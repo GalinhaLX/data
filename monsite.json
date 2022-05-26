@@ -24,17 +24,17 @@
 	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/data@06f32fe8a08f5c9430373e509f56d703e8bdfe36/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg",
 	"product_card": [
 		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
 			"product_card_title": "100% intuitive",
 			"product_card_subtitle": "Your grandma too",
 			"product_action": "Explore"
 		},
 		{
 			"product_card_title": "No promming",
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Explore"
+		},
+		{
+			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
 			"product_action": "Explore"
 		}
